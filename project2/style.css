@@ -1,0 +1,9 @@
+/* تخصيصات بسيطة بجانب Tailwind */
+input:focus, textarea:focus {
+  outline: none;
+  border-color: #f97316; /* Tailwind orange */
+  box-shadow: 0 0 4px rgba(201, 198, 196, 0.7);
+}
+.us{
+    font-size: 40px;
+}
